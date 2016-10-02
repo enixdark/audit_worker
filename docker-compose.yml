@@ -1,0 +1,4 @@
+audit:
+  build: .
+  env_file: ./env
+  command: /usr/bin/start-cron.sh

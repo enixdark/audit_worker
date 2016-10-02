@@ -1,0 +1,1 @@
+* * * * * root /bin/bash -l -c 'cd /usr/local/audit && ./audit -a false --silent >> /var/log/audit/cron.log 2>&1'
